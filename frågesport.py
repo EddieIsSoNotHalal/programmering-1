@@ -19,7 +19,7 @@ if question1 == ("Arnold" or "Schwarzenegger" or "Arnold Schwarzenegger"):
 else: 
     print (f"Wrong answer! Your score is still {score} points")
 
-question2 = input("Wchich ice cream is Eddie favorite?").capitalize()
+question2 = input("Wchich ice cream is Eddie's favorite?").capitalize()
 
 if question2 == ("Nogger"):
     score =+1
