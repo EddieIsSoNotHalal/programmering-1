@@ -58,3 +58,4 @@ def prime(nr):
     # TODO Returnera True om nr är ett primtal, annars returnera false
     # Ex: 5 in - True ut
    pass
+#hej hampus
